@@ -1,3 +1,3 @@
 KnowledgeBase
 =============
-Please check the Wiki About Knowledge Base page for Intro
+Please check the Wiki About KnowledgeBase page for Intro
